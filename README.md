@@ -54,7 +54,7 @@ curl -X POST \
     "total": "35.35"
   }'
   ```
-  Output: 
+ ## Output: 
   ```bash
   {"id":"a35c4127-288d-47fe-bc99-e896d6f277e9"}
     ```
