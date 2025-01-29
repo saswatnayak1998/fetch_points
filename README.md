@@ -66,7 +66,7 @@ curl -X GET \
   http://127.0.0.1:5001/receipts/a35c4127-288d-47fe-bc99-e896d6f277e9/points \
   -H "accept: application/json"
 ```
-Output
+## Output
 
 ```bash
 28
