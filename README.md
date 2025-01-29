@@ -15,7 +15,7 @@ git clone <repository-url>
 cd <repository-directory>
 
 ### 2. Build and Run
-bash```
+```bash
 docker build -t fetch_points . 
 docker run -p 5001:5001 fetch_points
 ```
